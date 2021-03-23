@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="./css/destyle.css" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <!-- bootstrap 読み込み -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Re:Cycle</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-info">
+      <a class="navbar-brand text-light" href="./index.html">Re:Cycle</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active text-light" href="./index.html"
+            >トップ <span class="sr-only">(current)</span></a
+          >
+          <a class="nav-item nav-link text-light" href="./index.html#intro"
+            >店舗紹介</a
+          >
+          <a class="nav-item nav-link text-light" href="./index.html#news"
+            >お知らせ</a
+          >
+          <a class="nav-item nav-link text-light" href="./index.html#info"
+            >買取案内</a
+          >
+          <a class="nav-item nav-link text-light" href="./index.html#handling"
+            >取り扱い商品</a
+          >
+          <a class="nav-item nav-link text-light" href="./access.html"
+            >アクセス</a
+          >
+          <a class="nav-item nav-link text-light" href="./contact.html"
+            >お問い合わせ</a
+          >
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row d-flex justify-content-center">
+        <div class="col">
+          <h4 class="m-auto col-sm-12 col-md-12 col-lg-8 text-center p-5">
+            アクセス
+          </h4>
+        </div>
+      </div>
+      <div class="row d-flex justify-content-center">
+        <div class="col gmap">
+          <iframe
+            class="map"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8278534024803!2d139.76493075078915!3d35.68124053748182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf9274299a5%3A0x150fcc903bcec163!2z44CSMTAwLTAwMDUg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65Li444Gu5YaF77yR5LiB55uu77yW4oiS77yVIOS4uOOBruWGheWMl-WPo-ODk-ODq-ODh-OCo-ODs-OCsA!5e0!3m2!1sja!2sjp!4v1609940244767!5m2!1sja!2sjp"
+            width="100%"
+            frameborder="0"
+            style="border: 0"
+            allowfullscreen=""
+            aria-hidden="false"
+            tabindex="0"
+          >
+          </iframe>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid" id="changeImg">
+      <div class="sub d-flex">
+        <div class="contact-img-main" width="300px">
+          <img
+            src="http://placehold.jp/300x300.png"
+            class="img-main"
+            id="image-main"
+            width="300px"
+            height="200px"
+            v-on:click="changeImg('http://placehold.jp/300x300.png')"
+          />
+        </div>
+        <div class="contact-img-sub" width="300px">
+          <img
+            src="./img/contact-sub.jpg"
+            alt=""
+            width="300px"
+            height="200px"
+            class="img"
+            v-on:click="changeImg('./img/contact-sub.jpg')"
+          />
+        </div>
+        <div class="contact-img-sub" width="300px">
+          <img
+            src="./img/contact-sub-2.jpg"
+            alt=""
+            width="300px"
+            height="200px"
+            class="img"
+            v-on:click="changeImg('./img/contact-sub-2.jpg')"
+          />
+        </div>
+      </div>
+    </div>
+
+    <!--フッター-->
+    <div class="container-fluid p-0 m-0" id="footer">
+      <div class="footer text-center text-white-50">
+        Copyright &copy; Re:Cycle All Rights Reserved.
+      </div>
+    </div>
+
+    <!--※読み込み順はjQuery→popper.js→bootstrap.min.js-->
+    <!--こうじゃないと、ハンバーガーメニュー等が動かない-->
+    <!--jQuery-->
+    <script src="./js/jquery-3.5.1.min.js"></script>
+    <!--popper.js-->
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <!--bootstrap.min.js-->
+    <script src="./js/bootstrap.min.js"></script>
+    <!-- Vue.js 読み込み-->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+    <!-- main.js読み込み -->
+    <script src="./js/main.js"></script>
+  </body>
+</html>

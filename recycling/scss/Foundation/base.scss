@@ -1,0 +1,85 @@
+body {
+  font-family: "Helvetica Neue",
+  Arial,
+  "Hiragino Kaku Gothic ProN",
+  "Hiragino Sans",
+  Meiryo,
+  sans-serif;
+  background-color: $bg-base-color;
+}
+
+.banar-img {
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+.set-padding {
+  box-sizing: border-box;
+  padding: 10px 15px;
+  background-color: #fff;
+}
+
+.intro-img {
+  width: 100%;
+}
+
+.box_srcollbar {
+  overflow: auto;
+  height: 150px;
+  padding: 5px;
+  border: 1px solid #000;
+  background-color: #F9F9F9;
+  color: #000;
+box-sizing: border-box;
+}
+
+.box_title {
+  border: 1px solid #000;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+}
+.circle{
+  height:50px;
+  width:50px;
+  border-radius:50%;
+  line-height:50px;
+  text-align:center;
+  //background-color: black;
+}
+
+.submit-btn{
+  padding: $white-space-m $white-space-l;
+  width: 25%;
+  @include mq(sm){
+    width: 100%;
+  }
+  @include mq(md){
+    width: 100%;
+  }
+}
+.map{
+  @include mq(sm){
+    width: 100%;
+  }
+  @include mq(){
+    width: 100%;
+  }
+
+}
+
+.gmap {
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+.gmap iframe {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}

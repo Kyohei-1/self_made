@@ -1,0 +1,76 @@
+body{
+  margin: 0 auto;
+  overflow: hidden;
+  background-color: #222222;
+}
+.main-wrap{
+  margin: auto;
+  width: 49%;
+  position: absolute;
+  top: 150px;
+  left: 25%;
+  /* overflow: hidden; */
+  /* border: black 2px solid; */
+}
+.main-wrap h2{
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 24px;
+}
+.main-wrap form{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.main-wrap .startBtn{
+  width: 75%;
+  padding: 10px 20px;
+  border-style: none;
+  font-size: 36px;
+  text-align: center;
+  margin: 0 auto;
+}
+.wrap{
+  background-color: #f6f5f4;
+  background-image: url(./img/bg.jpg);
+  background-size: contain;
+  overflow: hidden;
+  min-height: 550px;
+}
+.left-block{
+  padding-top: 70px;
+  padding-left: 40px;
+  float: left;
+  width: 45%;
+  /* border-right: #ABCDEF solid 2px; */
+  box-sizing: border-box;
+  /* padding-right: -5px; */
+}
+.left-block p,
+.right-block p{
+  margin: 15px 30px;
+}
+.right-block{
+  padding-top: 55px;
+  padding-right: 35px;
+  width: 45%;
+  float: right;
+  /* padding-left: -5px; */
+}
+.btn-area{
+  padding: 15px 30px;
+  width: 100%;
+}
+.btn-submit{
+  border-style: solid;
+  border: 1px solid #FFFFFF;
+  box-sizing: border-box;
+  /* padding: 10px 20px; */
+  font-size: 12px;
+  width: 30%;
+  height: 40px;
+  /* margin-right: 20px; */
+  background-color: #222;
+  color: #FFFFFF;
+}
+

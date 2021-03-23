@@ -1,0 +1,273 @@
+body{
+  font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  box-sizing: border-box;
+  color: #222222;
+}
+input[type="checkbox"]{
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #333333;
+}
+a:hover{
+  text-decoration: underline #333333;
+  cursor: pointer;
+}
+
+body,header,main,footer,h1,h2,ul{
+  padding: 0;
+  margin: 0;
+}
+
+header{
+  width: 100%;
+  background-color: #F3FFBD;
+  /* margin-bottom: 50px; */
+}
+.site-title{
+  font-size: 25px;
+}
+header h1{
+  /* width: 50%; */
+  float: left;
+}
+header h1 a{
+  display: inline-block;
+  width: 180px;
+  text-align: center;
+}
+
+.top-and-bottom-center{
+  height: 80px;
+  line-height: 80px;
+}
+
+header nav{
+  width: 50%;
+  float: right;
+}
+header ul{
+  overflow: hidden;
+  float: right;
+}
+header li{
+  float: left;
+  margin-left: 25px;
+}
+
+.inner-wrap{
+  margin: 0 auto;
+  width: 1080px;
+  overflow: hidden;
+}
+
+.page-title{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 25px;
+  margin-bottom: 50px;
+  font-size: 25px;
+  border-bottom:  #222222 dashed 2px;
+  overflow: hidden;
+}
+
+main{
+  padding-top: 50px;
+
+}
+.form-width{
+  width: 560px;
+}
+
+form input[type="text"],
+input[type="password"]{
+  display: block;
+  margin: 0 auto;
+}
+
+form{
+  margin: 0 auto;
+}
+
+input[type="text"],input[type="password"]{
+  width: 80%;
+  padding: 10px 15px;
+  font-size: 16px;
+  /* margin-bottom: 25px; */
+}
+
+/* input[type="checkbox"]{
+  /* margin-top: 15px; */
+  /* margin-bottom: 15px; */
+  
+/*}*/
+
+input[type="submit"]{
+  width: 100%;
+  background-color: #222222;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 50px;
+  box-sizing: border-box;
+}
+
+input[type="submit"]:hover{
+  cursor: pointer;
+}
+.clear{
+  clear: both;
+}
+
+.side-bar{
+  width: 180px;
+  float: left;
+  background-color: rgba(252, 221, 237, 0.8);
+}
+
+.side-bar p{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main-contents{
+  width: 800px;
+  float: right;
+  background-color: rgba(206, 234, 247, 0.8);
+}
+
+footer{
+  width: 100%;
+  background-color: #B2DBBF;
+  text-align: center;
+}
+
+.area-msg.err,
+label.err,
+span.err{
+  color: red;
+}
+
+textarea{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  min-height: 300px;
+  
+}
+.counter-text{
+  float: right;
+  margin-bottom: 50px;
+}
+
+.section-title{
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+h3.section-title{
+  text-align: center;
+}
+
+.width-max{
+  width: 100%;
+}
+
+.category-area{
+  text-align: center;
+}
+
+input[type="checkbox"]{
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.counter-text{
+  font-weight: normal;
+}
+
+label{
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+a > img{
+  transform: translate(0%,25%);
+}
+
+.msg-slide{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 40px;
+  background: rgba(122, 206, 230, 0.6);
+  text-align: center;
+  font-size: 16px;
+  line-height: 40px;
+}
+
+.side-bar p{
+  padding: 10px 15px;
+}
+
+.tag_area{
+  padding: 10px 20px;
+}
+
+select{
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 16px;
+}
+
+.imgDrop-container{
+  width: 100%;
+}
+
+.input-file{
+  display: inline-block;
+  width: 100%;
+  height: 140px;
+  opacity: 0;
+}
+
+.area-drop img{
+  width: 100%;
+  height: 500px;
+}
+
+.main-contents{
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.main-contents .left-block{
+  float: left;
+  width: 20%;
+  background-color: pink;
+}
+
+.main-contents .right-block{
+  float: right;
+  width: 75%;
+  background-color: green;
+}
+
+form.word_search{
+  margin-top: 20px;
+}
+
+input.search-word{
+  
+}

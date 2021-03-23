@@ -1,0 +1,112 @@
+body{
+  /* position: relative; */
+  box-sizing: border-box;
+  background-color: #222;
+  color: #222;
+}
+body,ul,li,input,pre{
+  margin: 0;
+  padding: 0;
+}
+
+pre{
+  font-size: 12px;
+}
+
+header{
+  overflow: hidden;
+  width: calc(2 * 399.9949606299212px);
+  padding: 15px 30px;
+  margin-bottom: 10px;
+}
+
+header ul{
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+header li{
+  width: 25%;
+}
+
+.main-wrapper{
+  overflow: hidden;
+  /* DPIと画面サイズを計算し、3DSのサイズにしている */
+  width: calc(2 * 399.9949606299212px);
+  height: calc(2 * 239.99697637795273px);
+  border: #222 solid ;
+  margin: 0 auto;
+  position: absolute;
+  top: 150px;
+  left: 20%;
+  border: solid 5px #F8DA37;
+  border-radius: 20px 20px 20px 20px;
+  background-color: #F8F7EF;
+}
+
+.main-container{
+  overflow: hidden;
+  width: 100%;
+  display: block;
+}
+
+.half-block{
+  box-sizing: border-box;
+  height: 300px;
+  width: 50%;
+  display: inline-block;
+  float: left;
+  /* border: #f6f solid; */
+}
+
+.half-block.img{
+  text-align: center;
+}
+
+li{
+  list-style: none;
+  float: left;
+}
+
+.btn-wrapper{
+  /* margin-top: 15px; */
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  /* border-style: none; */
+}
+
+.btn-wrapper input[type="text"]{
+  width: 25%;
+  font-size: 16px;
+  padding: 10px 20px;
+}
+
+.btn-wrapper .btn{
+  padding: 15px 30px;
+  margin: 5px;
+  font-size: 16px;
+  background-color: #FFF;
+}
+
+
+.btn-wrapper .btn-submit{
+  box-shadow: 0.5px 0.5px 0.5px 0.5px;
+  border-radius: 50%;
+  width: 20%;
+}
+
+.btn-wrapper .btn-submit:hover{
+  cursor: pointer;
+}
+
+span.wood{
+  background-color: rgba(218, 143, 51,0.8);
+  padding: 5px 10px;
+  border-radius: 25%;
+  color: #222;
+}
+
+form{
+  padding: 30px;
+}

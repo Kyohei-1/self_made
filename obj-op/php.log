@@ -1,0 +1,3635 @@
+[25-Mar-2020 15:53:32 Asia/Tokyo] PHP Warning:  Use of undefined constant MY_MONEY - assumed 'MY_MONEY' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/obj-op/index.php on line 34
+[25-Mar-2020 15:53:32 Asia/Tokyo] PHP Stack trace:
+[25-Mar-2020 15:53:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[26-Mar-2020 15:13:25 Asia/Tokyo] PHP Warning:  Use of undefined constant MY_MONEY - assumed 'MY_MONEY' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/obj-op/index.php on line 36
+[26-Mar-2020 15:13:25 Asia/Tokyo] PHP Stack trace:
+[26-Mar-2020 15:13:25 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[27-Mar-2020 13:17:54 Asia/Tokyo] PHP Warning:  Use of undefined constant self - assumed 'self' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/obj-op/index.php on line 44
+[27-Mar-2020 13:17:54 Asia/Tokyo] PHP Stack trace:
+[27-Mar-2020 13:17:54 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[28-Mar-2020 12:39:34 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 93
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:52 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 124
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:52 Asia/Tokyo] 124
+[28-Mar-2020 12:52:56 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 122
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:56 Asia/Tokyo] 122
+[28-Mar-2020 12:52:58 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 109
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:58 Asia/Tokyo] 109
+[28-Mar-2020 12:52:58 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 63
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:58 Asia/Tokyo] 63
+[28-Mar-2020 12:52:58 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 126
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:58 Asia/Tokyo] 126
+[28-Mar-2020 12:52:59 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 52
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:59 Asia/Tokyo] 52
+[28-Mar-2020 12:52:59 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 133
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:59 Asia/Tokyo] 133
+[28-Mar-2020 12:52:59 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 114
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:52:59 Asia/Tokyo] 114
+[28-Mar-2020 12:53:00 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 80
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:53:00 Asia/Tokyo] 80
+[28-Mar-2020 12:53:00 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 70
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:53:00 Asia/Tokyo] 70
+[28-Mar-2020 12:53:00 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 58
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:53:00 Asia/Tokyo] 58
+[28-Mar-2020 12:54:20 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 97
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:54:20 Asia/Tokyo] デバッグ：97
+[28-Mar-2020 12:55:10 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 92
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:55:10 Asia/Tokyo] デバッグ：92
+[28-Mar-2020 12:55:11 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 56
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:55:11 Asia/Tokyo] デバッグ：56
+[28-Mar-2020 12:55:16 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 138
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:55:16 Asia/Tokyo] デバッグ：138
+[28-Mar-2020 12:55:21 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 124
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:55:21 Asia/Tokyo] デバッグ：124
+[28-Mar-2020 12:55:21 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 118
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:55:21 Asia/Tokyo] デバッグ：118
+[28-Mar-2020 12:55:28 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 138
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:55:28 Asia/Tokyo] デバッグ：138
+[28-Mar-2020 12:55:29 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 149
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:55:29 Asia/Tokyo] デバッグ：149
+[28-Mar-2020 12:55:29 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 112
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:55:29 Asia/Tokyo] デバッグ：112
+[28-Mar-2020 12:57:15 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 136
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:57:15 Asia/Tokyo] デバッグ：136
+[28-Mar-2020 12:58:36 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 96
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:58:36 Asia/Tokyo] デバッグ：96
+[28-Mar-2020 12:59:54 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 77
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:54 Asia/Tokyo] デバッグ：77
+[28-Mar-2020 12:59:55 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 93
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:55 Asia/Tokyo] デバッグ：93
+[28-Mar-2020 12:59:55 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 139
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:55 Asia/Tokyo] デバッグ：139
+[28-Mar-2020 12:59:56 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 57
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:56 Asia/Tokyo] デバッグ：57
+[28-Mar-2020 12:59:56 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 54
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:56 Asia/Tokyo] デバッグ：54
+[28-Mar-2020 12:59:56 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 91
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:56 Asia/Tokyo] デバッグ：91
+[28-Mar-2020 12:59:57 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 92
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:57 Asia/Tokyo] デバッグ：92
+[28-Mar-2020 12:59:57 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 97
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:57 Asia/Tokyo] デバッグ：97
+[28-Mar-2020 12:59:58 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 113
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:58 Asia/Tokyo] デバッグ：113
+[28-Mar-2020 12:59:58 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 143
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 12:59:58 Asia/Tokyo] デバッグ：143
+[28-Mar-2020 13:00:17 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 106
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:00:17 Asia/Tokyo] デバッグ：106
+[28-Mar-2020 13:00:53 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 71
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:00:53 Asia/Tokyo] デバッグ：71
+[28-Mar-2020 13:11:21 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 77
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:11:21 Asia/Tokyo] デバッグ：77
+[28-Mar-2020 13:11:21 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 88
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 109
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：109
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 94
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 113
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：113
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 106
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 74
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：74
+[28-Mar-2020 13:15:24 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 90
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:17:19 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 50
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:17:19 Asia/Tokyo] デバッグ：50
+[28-Mar-2020 13:17:19 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 118
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:17:21 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 67
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:17:21 Asia/Tokyo] デバッグ：67
+[28-Mar-2020 13:17:21 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 124
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:17:22 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 142
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:17:22 Asia/Tokyo] デバッグ：142
+[28-Mar-2020 13:17:22 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 79
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:17:22 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 81
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:17:22 Asia/Tokyo] デバッグ：81
+[28-Mar-2020 13:17:22 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 86
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 79
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：79
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 123
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 135
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：135
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 80
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 129
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：129
+[28-Mar-2020 13:17:23 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 125
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:19:40 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 146
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:19:40 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 95
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:20:51 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 100
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:20:51 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 112
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:20:51 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 92
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:20:51 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 108
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:00 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 87
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:00 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 94
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:01 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 112
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:01 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 77
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:02 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 77
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:02 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 85
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:02 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 72
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:02 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 85
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:03 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 125
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:03 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 119
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:03 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 116
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:03 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 83
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:03 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 105
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:03 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 91
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:04 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 147
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:04 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 110
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 104
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 105
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 124
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 91
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 118
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 88
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 57
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 100
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 133
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:05 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 99
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 112
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 100
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 83
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 88
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 122
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 109
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 67
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 101
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 150
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 90
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 60
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 109
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 147
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 97
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 78
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 100
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 129
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 100
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 94
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 100
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:08 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 89
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:08 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 78
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:21:08 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 110
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:21:08 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 96
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:22:01 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 70
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:22:01 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 109
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:22:33 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 139
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:22:33 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 110
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:22:37 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 88
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:22:37 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 80
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:24:04 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 133
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:24:04 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 121
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:24:05 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 52
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:24:05 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 85
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:24:10 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 60
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:24:10 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 110
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:24:10 Asia/Tokyo] デバッグ：111個、欲しいです
+[28-Mar-2020 13:31:37 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 111
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:31:37 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 114
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:31:42 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 124
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:31:42 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 78
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:31:42 Asia/Tokyo] デバッグ：111個、欲しいです
+[28-Mar-2020 13:35:30 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 136
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:35:30 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 90
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:35:30 Asia/Tokyo] デバッグ：111個、欲しいです
+[28-Mar-2020 13:37:02 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 52
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 13:37:02 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 76
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 13:37:02 Asia/Tokyo] デバッグ：111個、欲しいです
+[28-Mar-2020 14:00:59 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 65
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:00:59 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 120
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:00:59 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:00:59 Asia/Tokyo] デバッグ：111個、欲しいです
+[28-Mar-2020 14:02:02 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 94
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:02:02 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 114
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:02:02 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:03:24 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 67
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:03:24 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 103
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:03:24 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:04:59 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 84
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:04:59 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 116
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:04:59 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:05:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 67
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:05:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 117
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:05:06 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:05:19 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 114
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:05:19 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 109
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:05:19 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:16:01 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 135
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:16:01 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 92
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:16:01 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:04 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 138
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:04 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 91
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:04 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:05 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 62
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:05 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 82
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:05 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 104
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 85
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 130
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 87
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 83
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 87
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:06 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 111
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 100
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 105
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 125
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 116
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 81
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 88
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 89
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 76
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 89
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:07 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 64
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 92
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 123
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 117
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 64
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 98
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 65
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 82
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 71
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 121
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:17:08 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:23:16 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 104
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:23:16 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 75
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:23:16 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:23:16 Asia/Tokyo] デバッグ：Array
+(
+    [history] => ゲームスタート！<br>初期化します！<br>血のハンドが現れた！<br>攻撃した！<br>71ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>攻撃した！<br>59ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>攻撃した！<br>56ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>血のハンドを倒した！<br>毒ハンドが現れた！<br>攻撃した！<br>53ポイントのダメージを与えた！<br>20ポイントのダメージを受けた！<br>攻撃した！<br>87ポイントのダメージを与えた！<br>20ポイントのダメージを受けた！<br>毒ハンドを倒した！<br>血のハンドが現れた！<br>攻撃した！<br>77ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>攻撃した！<br>100ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>攻撃した！<br>86ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>血のハンドを倒した！<br>スカルフェイスが現れた！<br>攻撃した！<br>63ポイントのダメージを与えた！<br>57ポイントのダメージを受けた！<br>攻撃した！<br>86ポイントのダメージを与えた！<br>57ポイントのダメージを受けた！<br>
+    [knockDownCount] => 3
+    [myhp] => 139
+    [attack] => 57
+    [name] => スカルフェイス
+    [hp] => 1
+    [img] => img/monster05.png
+    [nowTime] => 0
+    [myMoney] => 10000
+)
+
+[28-Mar-2020 14:24:22 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 58
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:24:22 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 107
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:24:22 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:24:22 Asia/Tokyo] デバッグ：Array
+(
+    [history] => ゲームスタート！<br>初期化します！<br>血のハンドが現れた！<br>攻撃した！<br>71ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>攻撃した！<br>59ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>攻撃した！<br>56ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>血のハンドを倒した！<br>毒ハンドが現れた！<br>攻撃した！<br>53ポイントのダメージを与えた！<br>20ポイントのダメージを受けた！<br>攻撃した！<br>87ポイントのダメージを与えた！<br>20ポイントのダメージを受けた！<br>毒ハンドを倒した！<br>血のハンドが現れた！<br>攻撃した！<br>77ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>攻撃した！<br>100ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>攻撃した！<br>86ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>血のハンドを倒した！<br>スカルフェイスが現れた！<br>攻撃した！<br>63ポイントのダメージを与えた！<br>57ポイントのダメージを受けた！<br>攻撃した！<br>86ポイントのダメージを与えた！<br>57ポイントのダメージを受けた！<br>
+    [knockDownCount] => 3
+    [myhp] => 139
+    [attack] => 57
+    [name] => スカルフェイス
+    [hp] => 1
+    [img] => img/monster05.png
+    [nowTime] => 0:00
+    [myMoney] => 10000
+    [today] => 日
+    [myKabu] => 0
+)
+
+[28-Mar-2020 14:24:44 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 81
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:24:44 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 95
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:24:44 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:24:44 Asia/Tokyo] デバッグ：Array
+(
+    [history] => ゲームスタート！<br>初期化します！<br>血のハンドが現れた！<br>攻撃した！<br>71ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>攻撃した！<br>59ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>攻撃した！<br>56ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>血のハンドを倒した！<br>毒ハンドが現れた！<br>攻撃した！<br>53ポイントのダメージを与えた！<br>20ポイントのダメージを受けた！<br>攻撃した！<br>87ポイントのダメージを与えた！<br>20ポイントのダメージを受けた！<br>毒ハンドを倒した！<br>血のハンドが現れた！<br>攻撃した！<br>77ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>攻撃した！<br>100ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>攻撃した！<br>86ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>血のハンドを倒した！<br>スカルフェイスが現れた！<br>攻撃した！<br>63ポイントのダメージを与えた！<br>57ポイントのダメージを受けた！<br>攻撃した！<br>86ポイントのダメージを与えた！<br>57ポイントのダメージを受けた！<br>
+    [knockDownCount] => 3
+    [myhp] => 139
+    [attack] => 57
+    [name] => スカルフェイス
+    [hp] => 1
+    [img] => img/monster05.png
+    [nowTime] => 0:00
+    [myMoney] => 10000
+    [today] => 日
+    [myKabu] => 0
+)
+
+[28-Mar-2020 14:26:57 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 124
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:26:57 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 94
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:26:57 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:26:57 Asia/Tokyo] デバッグ：0:00
+[28-Mar-2020 14:27:24 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 115
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 14:27:24 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 79
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 14:27:24 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 14:27:24 Asia/Tokyo] デバッグ：Array
+(
+    [history] => ゲームスタート！<br>初期化します！<br>血のハンドが現れた！<br>攻撃した！<br>71ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>攻撃した！<br>59ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>攻撃した！<br>56ポイントのダメージを与えた！<br>33ポイントのダメージを受けた！<br>血のハンドを倒した！<br>毒ハンドが現れた！<br>攻撃した！<br>53ポイントのダメージを与えた！<br>20ポイントのダメージを受けた！<br>攻撃した！<br>87ポイントのダメージを与えた！<br>20ポイントのダメージを受けた！<br>毒ハンドを倒した！<br>血のハンドが現れた！<br>攻撃した！<br>77ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>攻撃した！<br>100ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>攻撃した！<br>86ポイントのダメージを与えた！<br>36ポイントのダメージを受けた！<br>血のハンドを倒した！<br>スカルフェイスが現れた！<br>攻撃した！<br>63ポイントのダメージを与えた！<br>57ポイントのダメージを受けた！<br>攻撃した！<br>86ポイントのダメージを与えた！<br>57ポイントのダメージを受けた！<br>
+    [knockDownCount] => 3
+    [myhp] => 139
+    [attack] => 57
+    [name] => スカルフェイス
+    [hp] => 1
+    [img] => img/monster05.png
+    [nowTime] => 0:00
+    [myMoney] => 10000
+    [today] => 日
+    [myKabu] => 0
+)
+
+[28-Mar-2020 17:16:56 Asia/Tokyo] PHP Notice:  Undefined variable: kabuCount in /Applications/MAMP/htdocs/obj-op/function.php on line 43
+[28-Mar-2020 17:16:56 Asia/Tokyo] PHP Stack trace:
+[28-Mar-2020 17:16:56 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[28-Mar-2020 17:16:56 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[28-Mar-2020 17:16:56 Asia/Tokyo] PHP   3. Player->__construct() /Applications/MAMP/htdocs/obj-op/function.php:47
+[28-Mar-2020 17:16:56 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 107
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 17:16:56 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 78
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 17:16:56 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 17:16:56 Asia/Tokyo] デバッグ：0:00
+[28-Mar-2020 17:17:36 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 80
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 17:17:36 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 96
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 17:17:36 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 17:17:36 Asia/Tokyo] デバッグ：0:00
+[28-Mar-2020 17:17:40 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 146
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 17:17:40 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 106
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 17:17:40 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 17:17:40 Asia/Tokyo] デバッグ：0:00
+[28-Mar-2020 17:27:36 Asia/Tokyo] デバッグ：MameTubu Object
+(
+    [buyValue] => 69
+    [img] => ./img/mametubu.png
+)
+
+[28-Mar-2020 17:27:36 Asia/Tokyo] デバッグ：Uri Object
+(
+    [saleValue] => 120
+    [img] => ./img/uri.png
+)
+
+[28-Mar-2020 17:27:36 Asia/Tokyo] デバッグ：Time Object
+(
+    [nowTime] => 0:00
+    [today] => 日
+)
+
+[28-Mar-2020 17:27:36 Asia/Tokyo] デバッグ：0:00
+[28-Mar-2020 22:05:47 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:01:40 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:01:41 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:01:42 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:01:52 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:01:58 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:01:58 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:01:58 Asia/Tokyo] デバッグ：111個、欲しいです
+[29-Mar-2020 00:09:26 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:10:00 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:10:35 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:12:45 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:12:49 Asia/Tokyo] デバッグ：100個、欲しいです
+[29-Mar-2020 00:12:52 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 00:12:54 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 00:12:55 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 00:12:56 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 00:12:58 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 00:13:02 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 00:13:11 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：10個、欲しいです
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 00:13:15 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：111
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：10個、欲しいです
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 00:16:32 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：121
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：10個、欲しいです
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 00:16:33 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：104
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：10個、欲しいです
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 00:16:34 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：75
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：10個、欲しいです
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 00:16:35 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 00:16:51 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:19:00 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 00:19:02 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 00:19:03 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 00:19:04 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 00:19:11 Asia/Tokyo] デバッグ：86
+[29-Mar-2020 00:19:13 Asia/Tokyo] デバッグ：10個、欲しいです
+[29-Mar-2020 00:19:14 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 00:19:15 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 00:19:16 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 00:19:17 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 00:19:18 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 00:19:19 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 00:20:12 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:20:12 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:20:24 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 00:20:30 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:31:25 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:40:46 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:41:40 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 22:41:42 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 22:41:42 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 22:41:43 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 22:41:44 Asia/Tokyo] デバッグ：77
+[29-Mar-2020 22:41:46 Asia/Tokyo] デバッグ：1111個、欲しいです
+[29-Mar-2020 22:41:47 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 22:41:48 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 22:41:49 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 22:41:50 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 22:41:52 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 22:41:53 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 22:42:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:42:36 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：115
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：1111個、欲しいです
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 22:42:39 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：76
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：40個、欲しいです
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 22:42:46 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：122
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：22個、欲しいです
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 22:43:06 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：81
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：77個、欲しいです
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 22:44:23 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 22:45:04 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:45:06 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:45:14 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 22:45:14 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 22:45:15 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 22:45:15 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 22:45:15 Asia/Tokyo] デバッグ：114
+[29-Mar-2020 22:45:17 Asia/Tokyo] デバッグ：44個、欲しいです
+[29-Mar-2020 22:45:19 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 22:45:21 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 22:45:28 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 22:47:36 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:47:56 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:48:03 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:48:14 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:48:18 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 22:48:18 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 22:48:18 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 22:48:19 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 22:48:19 Asia/Tokyo] デバッグ：98
+[29-Mar-2020 22:48:21 Asia/Tokyo] デバッグ：22個、欲しいです
+[29-Mar-2020 22:48:24 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 22:48:26 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 22:49:34 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 22:49:36 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 22:49:39 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 22:50:17 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 22:50:17 Asia/Tokyo] デバッグ：バリデーション通過
+[29-Mar-2020 22:50:19 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[29-Mar-2020 22:50:20 Asia/Tokyo] デバッグ：ゲーム画面
+[29-Mar-2020 22:50:29 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:50:33 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:50:33 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:50:37 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：0:00
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：日
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：0
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：10000
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：104
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：11個、欲しいです
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：未入力チェック通過
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：半角数字チェック通過
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：整数値チェック通過
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：最小数チェック通過
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：最大数チェック通過
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：バリデーション通過
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[29-Mar-2020 22:50:41 Asia/Tokyo] デバッグ：ゲーム画面
+[29-Mar-2020 22:50:48 Asia/Tokyo] デバッグ：ゲーム開始画面
+[29-Mar-2020 22:51:15 Asia/Tokyo] デバッグ：ゲーム画面
+[29-Mar-2020 22:51:22 Asia/Tokyo] デバッグ：結果発表画面
+[30-Mar-2020 00:01:56 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 00:16:25 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:46:24 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:47:24 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:47:36 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:47:59 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:48:06 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:48:15 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 13:48:25 Asia/Tokyo] デバッグ：結果発表画面
+[30-Mar-2020 13:50:04 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:50:04 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:51:01 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 13:51:42 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 13:52:59 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:52:59 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:53:00 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:53:00 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 13:53:05 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 14:05:48 Asia/Tokyo] デバッグ：結果発表画面
+[30-Mar-2020 14:18:45 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 14:18:46 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 14:18:59 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 14:19:00 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 14:19:00 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 14:19:16 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 15:38:59 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 15:38:59 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 15:39:00 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 15:39:00 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 15:39:01 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 15:39:01 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 15:39:01 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 16:25:16 Asia/Tokyo] PHP Notice:  Undefined variable: money in /Applications/MAMP/htdocs/obj-op/function.php on line 95
+[30-Mar-2020 16:25:16 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 16:25:16 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 16:25:16 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[30-Mar-2020 16:25:16 Asia/Tokyo] PHP Notice:  Undefined variable: kabuCount in /Applications/MAMP/htdocs/obj-op/function.php on line 95
+[30-Mar-2020 16:25:16 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 16:25:16 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 16:25:16 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[30-Mar-2020 16:25:16 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 16:29:13 Asia/Tokyo] PHP Notice:  Undefined variable: money in /Applications/MAMP/htdocs/obj-op/function.php on line 103
+[30-Mar-2020 16:29:13 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 16:29:13 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 16:29:13 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[30-Mar-2020 16:29:13 Asia/Tokyo] PHP Notice:  Undefined variable: kabuCount in /Applications/MAMP/htdocs/obj-op/function.php on line 103
+[30-Mar-2020 16:29:13 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 16:29:13 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 16:29:13 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[30-Mar-2020 16:29:13 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 16:29:14 Asia/Tokyo] PHP Notice:  Undefined variable: money in /Applications/MAMP/htdocs/obj-op/function.php on line 103
+[30-Mar-2020 16:29:14 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 16:29:14 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 16:29:14 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[30-Mar-2020 16:29:14 Asia/Tokyo] PHP Notice:  Undefined variable: kabuCount in /Applications/MAMP/htdocs/obj-op/function.php on line 103
+[30-Mar-2020 16:29:14 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 16:29:14 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 16:29:14 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[30-Mar-2020 16:29:14 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 16:29:15 Asia/Tokyo] PHP Notice:  Undefined variable: money in /Applications/MAMP/htdocs/obj-op/function.php on line 103
+[30-Mar-2020 16:29:15 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 16:29:15 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 16:29:15 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[30-Mar-2020 16:29:15 Asia/Tokyo] PHP Notice:  Undefined variable: kabuCount in /Applications/MAMP/htdocs/obj-op/function.php on line 103
+[30-Mar-2020 16:29:15 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 16:29:15 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 16:29:15 Asia/Tokyo] PHP   2. require() /Applications/MAMP/htdocs/obj-op/index.php:3
+[30-Mar-2020 16:29:15 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 16:30:01 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 16:30:07 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 16:30:08 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 21:35:21 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 21:35:21 Asia/Tokyo] デバッグ：11個、欲しいです
+[30-Mar-2020 21:35:21 Asia/Tokyo] デバッグ：未入力チェック通過
+[30-Mar-2020 21:35:21 Asia/Tokyo] デバッグ：半角数字チェック通過
+[30-Mar-2020 21:35:21 Asia/Tokyo] デバッグ：整数値チェック通過
+[30-Mar-2020 21:35:21 Asia/Tokyo] デバッグ：最小数チェック通過
+[30-Mar-2020 21:35:21 Asia/Tokyo] デバッグ：最大数チェック通過
+[30-Mar-2020 21:35:21 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/function.php on line 74
+[30-Mar-2020 21:35:21 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 21:35:21 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 21:35:21 Asia/Tokyo] PHP   2. isSale() /Applications/MAMP/htdocs/obj-op/index.php:52
+[30-Mar-2020 21:35:21 Asia/Tokyo] PHP Notice:  Undefined index: saleValue in /Applications/MAMP/htdocs/obj-op/function.php on line 74
+[30-Mar-2020 21:35:21 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 21:35:21 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 21:35:21 Asia/Tokyo] PHP   2. isSale() /Applications/MAMP/htdocs/obj-op/index.php:52
+[30-Mar-2020 21:35:21 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：11個、欲しいです
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：未入力チェック通過
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：半角数字チェック通過
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：整数値チェック通過
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：最小数チェック通過
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：最大数チェック通過
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：バリデーション通過
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[30-Mar-2020 21:38:21 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 37
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 38
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 39
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 21:38:21 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:19:03 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 39
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP Notice:  Undefined index: saleValue in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:19:03 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:20:27 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:20:27 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:20:27 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:20:27 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:20:27 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:20:27 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:20:27 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:01 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP Notice:  Undefined index: saleValue in /Applications/MAMP/htdocs/obj-op/game.php on line 42
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:01 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:02 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Notice:  Undefined index: saleValue in /Applications/MAMP/htdocs/obj-op/game.php on line 42
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:02 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Notice:  Undefined index: saleValue in /Applications/MAMP/htdocs/obj-op/game.php on line 42
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:02 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:26 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:21:26 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:21:26 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:26 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:26 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:21:26 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:26 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:27 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:27 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:27 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:21:27 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:22:05 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:23:28 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 24
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 24
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 25
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 27
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 28
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 38
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 39
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/obj-op/game.php on line 42
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 22:23:28 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 24
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 24
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: buyValue in /Applications/MAMP/htdocs/obj-op/game.php on line 25
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 27
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 28
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 38
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 39
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 40
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 41
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Notice:  Undefined index: buyValue in /Applications/MAMP/htdocs/obj-op/game.php on line 42
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:27:39 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:28:03 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in /Applications/MAMP/htdocs/obj-op/index.php on line 9
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP   2. session_start() /Applications/MAMP/htdocs/obj-op/index.php:9
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：10個、欲しいです
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：バリデーション通過
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[30-Mar-2020 23:28:08 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP Notice:  Undefined index: buyValue in /Applications/MAMP/htdocs/obj-op/game.php on line 25
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP Notice:  Undefined index: buyValue in /Applications/MAMP/htdocs/obj-op/game.php on line 42
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:28:08 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:29:41 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：ゲーム開始画面
+[30-Mar-2020 23:29:45 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in /Applications/MAMP/htdocs/obj-op/index.php on line 9
+[30-Mar-2020 23:29:45 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:29:45 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[30-Mar-2020 23:29:45 Asia/Tokyo] PHP   2. session_start() /Applications/MAMP/htdocs/obj-op/index.php:9
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：10個、欲しいです
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：未入力チェック通過
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：半角数字チェック通過
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：整数値チェック通過
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：最小数チェック通過
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：最大数チェック通過
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：バリデーション通過
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[30-Mar-2020 23:29:45 Asia/Tokyo] デバッグ：ゲーム画面
+[30-Mar-2020 23:29:45 Asia/Tokyo] PHP Notice:  Undefined index: buyValue in /Applications/MAMP/htdocs/obj-op/game.php on line 42
+[30-Mar-2020 23:29:45 Asia/Tokyo] PHP Stack trace:
+[30-Mar-2020 23:29:45 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[30-Mar-2020 23:30:31 Asia/Tokyo] デバッグ：ゲーム画面
+[31-Mar-2020 00:04:13 Asia/Tokyo] デバッグ：結果発表画面
+[31-Mar-2020 00:04:16 Asia/Tokyo] デバッグ：ゲーム画面
+[31-Mar-2020 00:04:17 Asia/Tokyo] デバッグ：ゲーム画面
+[31-Mar-2020 00:04:18 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:17:09 Asia/Tokyo] デバッグ：ゲーム開始画面
+[01-Apr-2020 16:17:24 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:17:28 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：ゲーム開始画面
+[01-Apr-2020 16:23:51 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in /Applications/MAMP/htdocs/obj-op/index.php on line 9
+[01-Apr-2020 16:23:51 Asia/Tokyo] PHP Stack trace:
+[01-Apr-2020 16:23:51 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/index.php:0
+[01-Apr-2020 16:23:51 Asia/Tokyo] PHP   2. session_start() /Applications/MAMP/htdocs/obj-op/index.php:9
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：15個、欲しいです
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：未入力チェック通過
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：半角数字チェック通過
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：整数値チェック通過
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：最小数チェック通過
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：最大数チェック通過
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：バリデーション通過
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[01-Apr-2020 16:23:51 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:25:14 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:27:01 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 16:27:26 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:27:30 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:27:31 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:27:32 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:27:32 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:36:34 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:37:37 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:37:40 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:38:03 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:38:03 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:38:03 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:38:04 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:38:12 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:40:49 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:40:49 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:40:50 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:40:55 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:41:08 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:41:12 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:41:20 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:41:38 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:41:54 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:41:54 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:41:54 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:41:58 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:42:03 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:42:11 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:42:12 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:42:28 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:42:29 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:42:29 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:42:30 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:43:07 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:43:09 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:43:51 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:44:10 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:44:28 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:44:29 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:44:34 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:44:41 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:44:41 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:44:55 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:44:56 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:45:03 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:45:03 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:45:09 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 16:45:28 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:19:31 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 22:19:32 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 22:19:32 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 22:19:48 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:19:49 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:07 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:07 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:07 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:08 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:08 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:08 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:08 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:09 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:09 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:14 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:21 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:22 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:28 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:21:51 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:20 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:20 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:21 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:21 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:21 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:21 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:22 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:22 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:35 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:35 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:35 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:22:41 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 22:22:42 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 22:23:29 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:23:29 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:23:30 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:23:30 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:23:33 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:24:03 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:24:42 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:24:59 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:25:00 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:25:18 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:25:23 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:26:48 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:27:10 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:27:17 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:27:26 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:27:34 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:28:11 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:28:46 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 22:28:49 Asia/Tokyo] デバッグ：ゲーム開始画面
+[01-Apr-2020 22:29:19 Asia/Tokyo] デバッグ：ゲーム開始画面
+[01-Apr-2020 22:29:59 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:30:00 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:30:16 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:30:35 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:30:43 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:30:43 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:30:56 Asia/Tokyo] デバッグ：ゲーム開始画面
+[01-Apr-2020 22:31:00 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 22:31:18 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 22:31:21 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 22:31:45 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 23:01:15 Asia/Tokyo] デバッグ：ゲーム開始画面
+[01-Apr-2020 23:01:19 Asia/Tokyo] デバッグ：結果発表画面
+[01-Apr-2020 23:01:25 Asia/Tokyo] デバッグ：ゲーム画面
+[01-Apr-2020 23:01:25 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 12:09:19 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 12:09:42 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/obj-op/game.php on line 8
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:42 Asia/Tokyo] デバッグ：個、欲しいです
+[02-Apr-2020 12:09:42 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 18
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:42 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 22
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:42 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 26
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:42 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 30
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:42 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 34
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:42 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:42 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：22個、欲しいです
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/obj-op/game.php on line 8
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：個、欲しいです
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 18
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 22
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 26
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 30
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Notice:  Undefined variable: quantity in /Applications/MAMP/htdocs/obj-op/game.php on line 34
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP Stack trace:
+[02-Apr-2020 12:09:59 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[02-Apr-2020 12:09:59 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 12:11:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：11個、欲しいです
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[02-Apr-2020 12:11:39 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 13:36:22 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：80個、欲しいです
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[02-Apr-2020 13:36:29 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 13:36:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：80個、欲しいです
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[02-Apr-2020 13:37:50 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 15:47:18 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 15:47:21 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:47:39 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:48:52 Asia/Tokyo] デバッグ：100個、欲しいです
+[02-Apr-2020 15:48:53 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 15:48:56 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 15:48:56 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 15:48:58 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 15:49:02 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 15:49:06 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 15:49:08 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 15:49:54 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:50:17 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:50:21 Asia/Tokyo] デバッグ：10個、欲しいです
+[02-Apr-2020 15:50:22 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 15:50:24 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 15:50:25 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 15:50:26 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 15:50:27 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 15:50:28 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 15:50:30 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 15:50:46 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:50:49 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：100個、欲しいです
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[02-Apr-2020 15:50:53 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 15:50:56 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:50:59 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 15:51:01 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:51:04 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:51:05 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:51:06 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:51:09 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:51:10 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：100個、欲しいです
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[02-Apr-2020 15:51:15 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 22:46:06 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 23:06:18 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 23:06:18 Asia/Tokyo] デバッグ：１００個、欲しいです
+[02-Apr-2020 23:06:18 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 23:06:18 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 23:06:18 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 23:06:18 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 23:06:18 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 23:06:18 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 23:07:43 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 23:07:43 Asia/Tokyo] デバッグ：85個、欲しいです
+[02-Apr-2020 23:07:43 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 23:07:43 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 23:07:43 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 23:07:43 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 23:07:43 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 23:07:43 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：ゲーム開始画面
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：54個、欲しいです
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：未入力チェック通過
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：半角数字チェック通過
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：整数値チェック通過
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：最小数チェック通過
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：最大数チェック通過
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：バリデーション通過
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[02-Apr-2020 23:07:51 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 23:10:35 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 23:10:37 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 23:10:38 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 23:49:03 Asia/Tokyo] デバッグ：ゲーム画面
+[02-Apr-2020 23:49:04 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:11:53 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：111個、欲しいです
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:16:44 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:16:48 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 84
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 84
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 87
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 88
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 98
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 99
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 101
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 102
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:16:48 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:16:48 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:49:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:53:01 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:53:04 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:53:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:17 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:17 Asia/Tokyo] デバッグ：23個、欲しいです
+[03-Apr-2020 13:54:17 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:17 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:17 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:17 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:17 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:17 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:20 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:20 Asia/Tokyo] デバッグ：23個、欲しいです
+[03-Apr-2020 13:54:20 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:20 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:20 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:20 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:20 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:20 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:22 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:22 Asia/Tokyo] デバッグ：23個、欲しいです
+[03-Apr-2020 13:54:22 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:22 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:22 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:22 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:22 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:22 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:24 Asia/Tokyo] デバッグ：23個、欲しいです
+[03-Apr-2020 13:54:24 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:24 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:24 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:24 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:24 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:24 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:25 Asia/Tokyo] PHP Notice:  Undefined index: my_kabu in /Applications/MAMP/htdocs/obj-op/function.php on line 138
+[03-Apr-2020 13:54:25 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:54:25 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:54:25 Asia/Tokyo] PHP   2. MameTubu->buy() /Applications/MAMP/htdocs/obj-op/game.php:58
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:27 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:29 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:33 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:34 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:36 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:38 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:40 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:41 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:45 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:46 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:48 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:50 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:52 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:54 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:55 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:57 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:54:59 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:55:00 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:55:02 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:55:03 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:55:05 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:55:06 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：2個、欲しいです
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:55:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:00 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:05 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：11個、欲しいです
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:56:12 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：11個、欲しいです
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:56:16 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：11個、欲しいです
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:56:17 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:19 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:19 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:20 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:20 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:21 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:21 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:21 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:21 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:22 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:22 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:22 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:22 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:26 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:26 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:26 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:26 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:26 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:26 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:27 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:27 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:27 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:27 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:27 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:27 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:28 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:28 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:28 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:28 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:28 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:28 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:29 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:29 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:29 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:29 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:29 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:30 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:30 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:30 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:30 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:30 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:30 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:32 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 92
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 92
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 95
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 96
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 106
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 107
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 109
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 110
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 13:56:32 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 13:56:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：11個、欲しいです
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 13:59:19 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:59:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:59:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:59:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:59:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:59:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:59:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:59:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 13:59:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:02 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:04 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 92
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 92
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 95
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 96
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 106
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 107
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 109
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 110
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:00:04 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:00:04 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:00:08 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:00:13 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:19 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:23 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:32 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:34 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:36 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:36 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:38 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:00:44 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:01:57 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:01:57 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:01:57 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:01:57 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:01:57 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:01:57 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:01:57 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:01:57 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:05 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:05 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:05 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:05 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:05 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:05 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:05 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:05 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:06 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:07 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:09 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:10 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:11 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:11 Asia/Tokyo] デバッグ：個、欲しいです
+[03-Apr-2020 14:03:11 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:03:11 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:03:11 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:03:11 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:03:11 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:03:11 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:03:13 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:13 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:13 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:14 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:14 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:03:14 Asia/Tokyo] デバッグ：ゲーム終了画面に遷移します
+[03-Apr-2020 14:03:14 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:03:14 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:03:14 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:04:03 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:04:08 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:04:08 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:04:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:04:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:04:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:04:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:04:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:04:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:04:13 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:04:13 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:04:13 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:04:13 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:04:13 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:04:13 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:04:13 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:04:13 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:04:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:36 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:38 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:39 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:40 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:42 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:45 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:46 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:52 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:04:52 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:04:52 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:04:52 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:04:52 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:04:52 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:04:52 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:04:52 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：12個、欲しいです
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:06:00 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：12個、欲しいです
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:06:04 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：12個、欲しいです
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:06:07 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：12個、欲しいです
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:06:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:07:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:07:37 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:07:38 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:07:41 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:07:45 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:07:55 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:07:55 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:07:55 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:07:55 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:07:55 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:07:55 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:07:55 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:07:55 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:08:49 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:08:49 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:08:49 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:08:49 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:08:49 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:08:49 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:08:49 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:08:49 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:08:54 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:08:54 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:08:54 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:08:54 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:08:54 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:08:54 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:08:54 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:08:54 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:09:00 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:09:00 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:09:00 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:09:00 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:09:00 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:09:00 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:09:00 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:09:00 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：10個、売りたいです
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:09:02 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：10個、売りたいです
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:09:05 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：10個、売りたいです
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:09:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:13:53 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:13:55 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:13:56 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:13:58 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:14:03 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:14:03 Asia/Tokyo] デバッグ：70個、売りたいです
+[03-Apr-2020 14:14:03 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:14:03 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:14:03 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:14:03 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:14:03 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:14:03 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:16:20 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 96
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 96
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 99
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 100
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Notice:  Undefined index: nowTime in /Applications/MAMP/htdocs/obj-op/game.php on line 110
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Notice:  Undefined index: today in /Applications/MAMP/htdocs/obj-op/game.php on line 111
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Notice:  Undefined index: myKabu in /Applications/MAMP/htdocs/obj-op/game.php on line 113
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/game.php on line 114
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:16:20 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/game.php:0
+[03-Apr-2020 14:16:20 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:22 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:23 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:24 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:24 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:25 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:25 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:25 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:26 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:27 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:28 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:29 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:29 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:30 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:31 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:31 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:16:54 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:17:16 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:17:19 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:17:20 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:17:21 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:17:22 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:17:23 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:17:24 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:17:25 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:18:30 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:23:13 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:23:16 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:23:35 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:23:39 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:23:52 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:23:58 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:23:58 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:23:58 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:23:58 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:23:58 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:23:58 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:23:58 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:23:58 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:04 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:04 Asia/Tokyo] デバッグ：99個、売りたいです
+[03-Apr-2020 14:24:04 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:04 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:04 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:04 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:04 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:04 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:09 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:09 Asia/Tokyo] デバッグ：80個、売りたいです
+[03-Apr-2020 14:24:09 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:09 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:09 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:09 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:09 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:09 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:14 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:14 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:24:14 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:14 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:14 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:14 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:14 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:14 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:19 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:19 Asia/Tokyo] デバッグ：99個、売りたいです
+[03-Apr-2020 14:24:19 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:19 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:19 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:19 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:19 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:19 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:24 Asia/Tokyo] デバッグ：80個、売りたいです
+[03-Apr-2020 14:24:24 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:24 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:24 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:24 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:24 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:24 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:31 Asia/Tokyo] デバッグ：5個、売りたいです
+[03-Apr-2020 14:24:31 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:31 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:31 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:31 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:31 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:31 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:34 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:34 Asia/Tokyo] デバッグ：0個、売りたいです
+[03-Apr-2020 14:24:34 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:34 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:34 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:34 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:34 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:34 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:39 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:39 Asia/Tokyo] デバッグ：44個、売りたいです
+[03-Apr-2020 14:24:39 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:39 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:39 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:39 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:39 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:39 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:24:41 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:24:41 Asia/Tokyo] デバッグ：44個、売りたいです
+[03-Apr-2020 14:24:41 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:24:41 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:24:41 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:24:41 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:24:41 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:24:41 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:25:03 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:25:03 Asia/Tokyo] デバッグ：44個、売りたいです
+[03-Apr-2020 14:25:03 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:25:03 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:25:03 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:25:03 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:25:03 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:25:03 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:25:07 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:25:11 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:25:17 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:25:20 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:25:21 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:25:25 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:25:31 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:25:31 Asia/Tokyo] デバッグ：20個、売りたいです
+[03-Apr-2020 14:25:31 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:25:31 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:25:31 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:25:31 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:25:31 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:25:31 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:25:36 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:25:36 Asia/Tokyo] デバッグ：20個、売りたいです
+[03-Apr-2020 14:25:36 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:25:36 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:25:36 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:25:36 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:25:36 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:25:36 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:25:40 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:25:40 Asia/Tokyo] デバッグ：24個、売りたいです
+[03-Apr-2020 14:25:40 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:25:40 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:25:40 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:25:40 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:25:40 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:25:40 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:26:37 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:26:41 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:26:41 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:26:41 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:26:41 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:26:41 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:26:41 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:26:41 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:26:41 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:27:28 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:27:38 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:27:38 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:27:39 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:27:40 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:27:42 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:27:43 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:27:44 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:27:51 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:27:51 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:27:51 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:27:51 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:27:51 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:27:51 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:27:51 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:27:51 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:27:55 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:27:55 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:27:55 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:27:55 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:27:55 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:27:55 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:27:55 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:27:55 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:27:57 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:27:57 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:27:57 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:27:57 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:27:57 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:27:57 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:27:57 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:27:57 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:28:05 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:28:24 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:28:43 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:28:45 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:28:46 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:28:46 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:28:48 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:28:51 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:29:36 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:29:46 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:29:59 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:30:02 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:30:04 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:30:06 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:30:07 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:30:09 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:30:10 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:30:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:30:48 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:30:49 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:30:49 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:30:49 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:30:50 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:30:51 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:30:52 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:31:01 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 14:31:08 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:10 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:10 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:11 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:11 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:12 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:13 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:13 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:13 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:14 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:14 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:14 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:15 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:16 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 14:31:16 Asia/Tokyo] デバッグ：ゲーム終了画面に遷移します
+[03-Apr-2020 14:31:16 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:31:51 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:32:25 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:32:59 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:34:30 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:34:31 Asia/Tokyo] デバッグ：結果発表画面
+[03-Apr-2020 14:34:31 Asia/Tokyo] デバッグ：最初の画面に遷移します
+[03-Apr-2020 14:34:31 Asia/Tokyo] PHP Notice:  Undefined index: myMoney in /Applications/MAMP/htdocs/obj-op/result.php on line 46
+[03-Apr-2020 14:34:31 Asia/Tokyo] PHP Stack trace:
+[03-Apr-2020 14:34:31 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/obj-op/result.php:0
+[03-Apr-2020 14:34:31 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 15:12:29 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：ゲーム開始画面
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：100個、欲しいです
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：現在の所持金で買えるかのチェック通過
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 15:12:32 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：100個、売りたいです
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：未入力チェック通過
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：半角数字チェック通過
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：整数値チェック通過
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：最小数チェック通過
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：最大数チェック通過
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：現在の所有カブ数で売れるかのチェック通過
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：バリデーション通過
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：ゲーム画面へ遷移します
+[03-Apr-2020 15:12:38 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:40 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:40 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:41 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:41 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:42 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:42 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:42 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:42 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:43 Asia/Tokyo] デバッグ：ゲーム画面
+[03-Apr-2020 15:12:43 Asia/Tokyo] デバッグ：ゲーム終了画面に遷移します
+[03-Apr-2020 15:12:43 Asia/Tokyo] デバッグ：結果発表画面
+[04-Apr-2020 22:01:39 Asia/Tokyo] デバッグ：ゲーム開始画面

@@ -1,0 +1,56 @@
+[04-Mar-2020 15:26:46 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:27:31 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:27:31 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:28:48 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:29:47 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:30:13 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:30:14 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:30:26 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:30:27 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:30:50 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:30:50 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:32:27 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 15:32:27 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
+[04-Mar-2020 16:02:03 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /Applications/MAMP/htdocs/FreeRecode/test.php:37
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/FreeRecode/test.php on line 37
